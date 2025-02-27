@@ -1,4 +1,4 @@
-# CorporationX - Fork команды "Dragon-master-stream7"
+# CorporationX - Fork команды 
 ##  Микросервисы и ветки в которых выполнялась работа:
  -[url_shortener_service](https://github.com/CorporationX/url_shortener_service/tree/BJS2-55208)
 - [user_service](https://github.com/CorporationX/user_service/tree/Dragon-master-stream7)
